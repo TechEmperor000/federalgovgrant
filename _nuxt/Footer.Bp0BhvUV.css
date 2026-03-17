@@ -1,0 +1,23 @@
+.usa-footer>.grid-container_[data-v-7ab28c51],
+.usa-footer__primary-section>.grid-container_[data-v-7ab28c51],
+.usa-footer__secondary-section>.grid-container_[data-v-7ab28c51] {
+    max-width: 1290px
+}
+
+.usa-footer__address a[data-v-7ab28c51] {
+    color: #fff
+}
+
+.usa-social-link[data-v-7ab28c51]:hover {
+    background-color: #fff
+}
+
+.usa-social-link[data-v-7ab28c51] {
+    background-color: #ffffff80
+}
+
+.usa-button--unstyled[data-v-7ab28c51]:visited,
+.usa-footer__return-to-top a[data-v-7ab28c51]:visited,
+.usa-footer__secondary-link a[data-v-7ab28c51]:visited {
+    color: #005ea2
+}
